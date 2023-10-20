@@ -34,10 +34,6 @@ store it in `JSON` files.
 * convert data to `CSV` files (data.csv and fulldata.csv)
 * train 3 models (Linear Regression, Decision Tree, Random Forest)
 
-> I'm glad I finally made it through the whole DE Bootcamp
-
-> Thank you all for the support all along the way 
-
     """,
     schedule_interval="* * * * *",
     default_args={
